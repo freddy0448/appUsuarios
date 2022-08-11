@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "c:\\Program Files\\Java\\jfx\\javafx-sdk-18.0.2\\lib\\javafx-swt.jar",
+            "c:\\Program Files\\Java\\jfx\\javafx-sdk-18.0.2\\lib\\javafx.base.jar"
+        ]
+    }
+}
